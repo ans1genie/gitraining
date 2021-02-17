@@ -13,3 +13,11 @@ index e69de29..226d8eb 100644
 git commit -m "show git diff output"
 
 new line
+
+
+git log 
+commit 13d039ea730ad6c9402ce1386198e3f8604e5fd0 (HEAD -> master)
+Author: AIT BAHA Anas <ans-ab@live.fr>
+Date:   Wed Feb 17 12:23:54 2021 +0100
+
+    show git diff output
