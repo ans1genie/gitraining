@@ -1,0 +1,10 @@
+git diff
+
+git diff output 
+diff --git a/gitcommands.txt b/gitcommands.txt
+index e69de29..226d8eb 100644
+--- a/gitcommands.txt
++++ b/gitcommands.txt
+@@ -0,0 +1 @@
++git diff
+\ No newline at end of file
