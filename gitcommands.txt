@@ -8,3 +8,6 @@ index e69de29..226d8eb 100644
 @@ -0,0 +1 @@
 +git diff
 \ No newline at end of file
+
+
+git commit -m "show git diff output"
