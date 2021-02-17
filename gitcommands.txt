@@ -21,3 +21,8 @@ Author: AIT BAHA Anas <ans-ab@live.fr>
 Date:   Wed Feb 17 12:23:54 2021 +0100
 
     show git diff output
+
+
+
+git log --oneline
+13d039e (HEAD -> master) show git diff output
